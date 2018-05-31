@@ -17,3 +17,5 @@ In your home directory, find the .keras folder inside which you will find keras.
 ```
 
 Replace 'tensorflow' with 'theano' to successfully use this code to classify handwritten digits.
+
+**If training is taking too much time on your system, try reducing the number of epochs from 10 to a relatively lower value.**
